@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: fantomein@hotmail.com
 description: "Time is the raw material of productivity and creativity"
 keyword: "YQ, YQ Blog, Terrenceyq的博客, 装酷,小众"
-url: "https://yuqian.github.io"          # your host, for absolute URL
+url: "https://yuqianisapplefan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yuqianisapplefan/yuqian.github.io.git" # you code repository
 
